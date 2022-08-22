@@ -4,3 +4,5 @@
 ![iniciarsesion](https://user-images.githubusercontent.com/92419630/185851914-94dfc5bd-3aec-4402-86ac-96c34d53845a.png)
 
 ![formulario](https://user-images.githubusercontent.com/92419630/185851940-d5128d21-9c0b-4d09-b9e8-96d445c3c5fd.png)
+
+![disenofactura](https://user-images.githubusercontent.com/92419630/185852268-f87ec642-f80e-42de-8d79-4ffbc34e836b.png)
