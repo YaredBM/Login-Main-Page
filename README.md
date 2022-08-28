@@ -1,4 +1,11 @@
 # Proyecto Programación
+![image](https://user-images.githubusercontent.com/92419630/187087018-81447192-fca5-4a9c-8365-4cb9a995afbb.png)
+
+![image](https://user-images.githubusercontent.com/92419630/187087054-c0452d82-fd5c-48d5-9be4-da8ec9872a92.png)
+
+
+
+
 ![crearcuenta](https://user-images.githubusercontent.com/92419630/185851854-40fb24e4-85b4-478c-9a7f-112d0168610f.png)
 
 ![iniciarsesion](https://user-images.githubusercontent.com/92419630/185851914-94dfc5bd-3aec-4402-86ac-96c34d53845a.png)
