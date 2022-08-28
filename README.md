@@ -3,8 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/92419630/187087054-c0452d82-fd5c-48d5-9be4-da8ec9872a92.png)
 
+![image](https://user-images.githubusercontent.com/92419630/187087420-91ea53b9-1065-4e06-b37e-876bf9d7b45e.png)
 
-
+![image](https://user-images.githubusercontent.com/92419630/187087491-8b4d3f74-528c-48ab-add5-9da5f0ec6b2c.png)
 
 ![crearcuenta](https://user-images.githubusercontent.com/92419630/185851854-40fb24e4-85b4-478c-9a7f-112d0168610f.png)
 
